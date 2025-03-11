@@ -47,6 +47,10 @@ Ao completar essas atividades, você terá um documento HTML que demonstra os co
 * Texto em negrito (`<strong>`).
 * Labels (`<label>`).
 
+## Links Adicionais
+
+* [API UDF](https://raphaellins6.github.io/api-udf/) - Link para a API UDF.
+
 ## Autores
 
 - [@RaphaelLins6](https://www.github.com/RaphaelLins6) - Raphael Lins (RGM:27797660)
