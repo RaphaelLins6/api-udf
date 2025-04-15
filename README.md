@@ -65,9 +65,9 @@
 ## 🚀 Como Utilizar o Repositório
 
 1. 📥 Faça o clone do repositório usando o comando:
-   ```bash
-   git clone https://github.com/RaphaelLins6/api-udf.git
-   ```
+```bash
+git clone https://github.com/RaphaelLins6/api-udf.git
+```
 2. 📂 Navegue até a pasta do projeto:
 
 ```bash
